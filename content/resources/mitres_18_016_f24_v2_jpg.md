@@ -5,6 +5,8 @@ draft: false
 file: /courses/res-18-016-multivariable-calculus-recitation-notes-fall-2024/mitres_18_016_f24_v2.jpg
 file_size: 68831
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Illustration of the flux of a vector field through a parametrized surface.
     (Image courtesy of Dr. Evan Chen.)
